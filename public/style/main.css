@@ -1,0 +1,36 @@
+:root {
+    --title-color: #322153;
+    --primary-color: #34cb79;
+}
+
+html {
+    font-family: Roboto, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Ubuntu, sans-serif;
+    color: var(--title-color);
+    
+}
+/* box model
+Modelo de caixa
+Toda caixa tem;
+largura, altura, espaçamento, preenchimento, bordas, cor, fundos */
+
+
+
